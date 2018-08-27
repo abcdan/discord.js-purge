@@ -11,7 +11,7 @@ bot.on("ready", () => {
     console.log(`Ready to PURGE!`);
 });
 bot.on("message", async message => {
-    if(message.author.bot || message.system) return
+    if(message.system) return
     if (message.channel.type === 'dm') {
         return;
     }

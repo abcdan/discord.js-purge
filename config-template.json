@@ -1,0 +1,7 @@
+{
+    "token":"bot-token",
+    "prefix":"p!",
+    "owner":"your-id",
+    "channel":"channel-id",
+    "botid":"the-bots-id"
+}

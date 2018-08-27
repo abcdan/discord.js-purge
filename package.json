@@ -1,0 +1,27 @@
+{
+  "name": "discord.js-purge",
+  "version": "1.0.0",
+  "description": "Discord Autopurge bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abcdan/discord.js-purge.git"
+  },
+  "keywords": [
+    "Node.js",
+    "purge"
+  ],
+  "author": "Daniël Langezaal",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/abcdan/discord.js-purge/issues"
+  },
+  "homepage": "https://github.com/abcdan/discord.js-purge#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "util": "^0.11.0"
+  }
+}
